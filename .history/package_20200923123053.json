@@ -1,7 +1,7 @@
 {
   "name": "boilerplate",
   "version": "1.0.0",
-  "description": "Browersify, SASS, Boostrap and Gulp Boilerplate",
+  "description": "Browersify, SASS, Boostrap and Gulp Boilerplate for NPS.Today",
   "main": "gulpfile.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
